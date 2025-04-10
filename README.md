@@ -1,3 +1,3 @@
 # OpenDEO
 ## Simple Website by Akashbk201
-* URL: 
+* Live Preview: https://akashbk201.github.io/opendeo/
